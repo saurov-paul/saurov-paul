@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Saurov Paul</h1>
 <h3 align="center">A passionate Full Stack developer from Finland 🇫🇮</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTlmbzRndGZ5bWdqcWR6bnRpdWNjaW1zbXBseW1icGd0YTg4Nm53ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif">
 
 - 🌱 I’m currently learning **in Business College Helsinki**
 
